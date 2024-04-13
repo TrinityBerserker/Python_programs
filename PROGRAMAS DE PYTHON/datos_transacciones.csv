@@ -1,0 +1,4 @@
+monto,hora,ubicacion,tipo_tarjeta,fraude
+100,13,EEUU,debito,0
+200,15,Canadá,credito,0
+500,10,México,debito,1
